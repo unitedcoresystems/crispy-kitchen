@@ -1,4 +1,4 @@
 # crispy-kitchen
 
-My first project is crispy kitchen
+My first project
 
